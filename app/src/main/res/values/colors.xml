@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- FocusLy Official Botanical Green Palette -->
+    <color name="focusly_background">#F4F1EA</color>
+    <color name="focusly_surface">#E1EBE5</color>
+    <color name="focusly_primary">#2D5A4C</color>
+    <color name="focusly_primary_dark">#1E3E34</color>
+    <color name="focusly_text_primary">#1C2B26</color>
+    <color name="focusly_text_secondary">#52635D</color>
+    <color name="focusly_feature_card">#EBF2EE</color>
+    <color name="focusly_input_bg">#FFFFFF</color>
+    <color name="focusly_border">#C8D7CE</color>
+
+    <!-- Standard Colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>

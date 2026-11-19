@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="180dp"
+    android:height="180dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Soil Mound at Base -->
+    <path
+        android:fillColor="#BD9B76"
+        android:pathData="M32,96 C42,86 78,86 88,96 C94,102 26,102 32,96 Z" />
+    <path
+        android:fillColor="#A27F5A"
+        android:pathData="M36,97 C46,88 74,88 84,97 C90,101 30,101 36,97 Z" />
+
+    <!-- Seedling Stem -->
+    <path
+        android:fillColor="#2D5A4C"
+        android:pathData="M59,92 C59,62 62,45 60,28 C59,28 57,62 56,92 Z" />
+
+    <!-- Top Left Main Leaf -->
+    <path
+        android:fillColor="#7BAA6A"
+        android:pathData="M59,42 C43,33 26,33 22,47 C37,55 52,49 59,42 Z" />
+    <path
+        android:fillColor="#6A985B"
+        android:pathData="M59,42 C44,37 29,39 22,47 C35,50 49,46 59,42 Z" />
+
+    <!-- Top Right Main Leaf -->
+    <path
+        android:fillColor="#95C483"
+        android:pathData="M61,38 C77,27 94,29 97,44 C81,49 67,44 61,38 Z" />
+    <path
+        android:fillColor="#81B270"
+        android:pathData="M61,38 C77,32 91,34 97,44 C81,46 68,42 61,38 Z" />
+
+    <!-- Middle Left Leaf -->
+    <path
+        android:fillColor="#7BAA6A"
+        android:pathData="M58,62 C46,57 34,57 31,68 C43,72 53,68 58,62 Z" />
+
+    <!-- Middle Right Leaf -->
+    <path
+        android:fillColor="#95C483"
+        android:pathData="M60,58 C72,51 85,53 88,63 C76,68 65,63 60,58 Z" />
+
+    <!-- Top Center Sprout -->
+    <path
+        android:fillColor="#A8DA94"
+        android:pathData="M60,28 C53,16 64,10 66,20 C66,24 63,26 60,28 Z" />
+</vector>
